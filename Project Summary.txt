@@ -1,0 +1,5 @@
+Create a chart that will show the daily price of gold
+
+Data source: API
+https://www.goldapi.io/
+
