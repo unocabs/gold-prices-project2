@@ -1,5 +1,5 @@
 # gold-prices-project2
-This mini project diplays a line chart of the gold price in the last 15 days. This mini project uses Gold API as the source of data, Python to extract the data and transform it to an excel file which will be loaded to Tableau for the data visualization.
+This mini project displays a line chart of the gold price in the last 15 days. This mini project uses Gold API as the data source, and Python to extract the data and transform it into an excel file to be loaded to Tableau for data visualization.
 
 Step-by-step of how the project is created:
 1. Sign up to https://www.goldapi.io/ to get API for the latest gold prices.
